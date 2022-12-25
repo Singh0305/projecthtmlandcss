@@ -1,0 +1,16 @@
+body
+{
+  background: url("kima.jpg");
+}
+.a
+{
+    float: right;
+    border: 4px solid lightblue;
+    background-size: 450px;
+    background-color: lightblue;
+    margin-top:100px;
+    margin-right: 100px;
+    border-radius: 12px;
+    width: 430px;
+    height: 480px;
+}

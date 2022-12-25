@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: url(photo.jpeg)no-repeat ;
+    background-size: cover ;
+}
+.log
+{
+    margin-top: 300px;
+    font-size: x-large;
+}
+.btnlog
+{
+    text-decoration: none;
+    color: wheat;
+    border: 2px solid whitesmoke;
+    border-radius: 27px;
+    max-width: 90px;
+    padding: 10px 100px;
+    background-color: rgb(118, 151, 162);
+}

@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    position:0;
+}
+body
+ {
+/*    background-image: url("jobget-logo.png");
+    margin-bottom: auto ;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed; */
+    width:30x;
+    height:500px;
+    background-attachment:fixed;
+    background: url("jobget-logo.png") no-repeat  top ;
+    background-size: 450px;
+
+}
+a.btn
+{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 27px;
+}
+.sing
+{
+    float:right;
+    margin-right: 550px;
+     margin-top: 350px;
+    background-color: rgb(54, 54, 139);
+}
+.log
+{
+    float: left;
+    margin-left: 550px;
+    margin-top:350px;
+    background-color: rgb(54, 54, 139);
+}
